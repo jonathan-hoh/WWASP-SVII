@@ -1,0 +1,4 @@
+ATTRS{serial}=="AI04YFRQ", SYMLINK+="tty_SVII_1"
+ATTRS{serial}=="FT2ETWZK", RUN+="/bin/sh -c 'echo $kernel > /sys/bus/usb/drivers/ftdi_sio/unbind'"         
+
+
