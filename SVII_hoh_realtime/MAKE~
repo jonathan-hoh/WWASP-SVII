@@ -1,0 +1,2 @@
+ cp SVII.c SVII_last.c
+gcc SVII.c -o SVII ./libftd2xx.a -Wall -Wextra -L. -lftd2xx -lpthread -ldl -lrt -Wl,-rpath /usr/local/lib

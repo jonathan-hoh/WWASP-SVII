@@ -1,0 +1,22 @@
+[Spectrometer0_Control]
+AI04YFRQ
+/dev/tty_SVII_1
+[Spectrometer_data]
+FT2ETWZK
+[AVERAGING]
+0 14 0 10 1000
+[RANGE]
+1E11
+[DATA]
+./SVII_data.csv
+[WIN_ENABLE]
+1
+[CLOCK_SETTING]
+0
+[TRIM_CHECK]
+0
+[READOUT_PRESCALE]
+4
+[DEBUG]
+0
+END
